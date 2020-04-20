@@ -1,5 +1,5 @@
 # SmartBrain React
-React part of SmartBrain.
+React module of SmartBrain.
 ### Tech
 SmartBrain uses a number of open source projects to work properly:
 
